@@ -3,7 +3,6 @@ body {
         padding-top: 60px;
 }
 nav {
-    .navbar-brand {font-size: 30px;}
     .navbar-toggle {margin: 13px 15px 13px 0;}
     a {
         font-size: 18px;
@@ -17,7 +16,6 @@ nav {
 
 nav.navbar.shrink {
         min-height: 35px;
-        .navbar-brand {font-size: 25px;}
         a {
             font-size: 15px;
             padding-bottom: 10px !important;
